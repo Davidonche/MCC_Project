@@ -1,4 +1,5 @@
-# Capital_MCP
+# MCC_Project
+
 The Marginal Cost on Capital Project is an open source repository for the crowdsourced effort in quantitatively registering the cost/return on capital as a function of capital itself.
 
 ## A Discussion on Capital's Nature
