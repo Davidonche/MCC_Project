@@ -9,6 +9,7 @@ install.packages(c("pacman",
                    "ggthemes",
                    "bench",
                    "tictoc",
+                   "xml2
                    "glue",
                    "furrr",
                    "rvest",
