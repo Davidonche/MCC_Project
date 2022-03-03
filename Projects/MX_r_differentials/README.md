@@ -8,6 +8,10 @@ It is in this context, that the discussion on the marginal cost of Capital as a 
 
 ![image1](https://github.com/Davidonche/MCC_Project/blob/main/Projects/MX_r_differentials/Mrd_graph.png)
 
+*Raw data is obtained from [Mexico's Central Bank](https://www.banxico.org.mx/PortalTranspCompSistFin/).* 
+*The disaggregated data for Large Enterprises was not available, but the mean rate for 2016 (and adjusted for 2018) was obtained from the [National Bank and Securities Commission](http://portafoliodeinformacion.cnbv.gob.mx/bm1/Paginas/carteraempresas.aspx)*
+
+
 ## A feedback relationship
 
 Indeed, rather than an anomaly or abherration, the self-reinforcing dynamics of wealth accumulation and scarcity seem to be further engraved in the resource allocation system of capitalism, then the latter is understood as inherently meritocratic instead of critically dependent on real competition. With both the GINI and Herfindahl-Hirschmann Indexes surging beyond levels not seen since exactly a Century ago, if this characteristic of Capital holds any truth, it can only increase exponentially the urgency and dire of the international economy.
